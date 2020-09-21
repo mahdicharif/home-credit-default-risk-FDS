@@ -1,2 +1,2 @@
 # home-credit-default-risk-FDS
-This folder contains all the files related to the home-credit-default-risk challenge of Kaggle
+This folder contains the Jupyter file related to the home-credit-default-risk challenge of Kaggle
